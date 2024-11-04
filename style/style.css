@@ -25,11 +25,11 @@ a {
 }
 #form {
   
-  border-radius: 50px;
+  border-radius: 10px;
   align-items: center;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.438);
   padding: 30px;
-  background-color: khaki;
+  background-color: blue;
 }
 .input {
   margin-top: 10px;
@@ -40,12 +40,12 @@ a {
 #btn {margin-top: 20px;
   background-color: white;
   border-radius: 50px;
-  border: 1px solid red;
+  border: 1px solid black;
   padding: 10px 15px;
   transition: all 0.2s ease;
 }
 #btn:active {
-  color: red;
+  color: whitesmoke;
   background-color: black;
   cursor: pointer;
 }
